@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SuryaFullStack
-- 👀 I’m interested in learning team managment.
-- 🌱 I’m currently Full Stack Professional.
+- 🌱 I’m currently a Full Stack Professional.
 - 💞️ I’m looking to collaborate on any of JavaScript project and any technologies.
 - 📫 Reach me at web.surya@live.com
 
